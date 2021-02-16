@@ -1,0 +1,29 @@
+
+.v1
+ {
+    font-size: 100px;
+    color: blue;
+    font-family: "Times New Roman", Times, serif;
+  }
+    
+  a:hover
+    {
+        font-size:20px;
+        background-color:springgreen;
+        font-family: "Times New Roman", Times, serif;
+    }
+.COUNTESS {
+    color:blue;
+}
+.LAFEU{
+    color:steelblue
+}
+.BERTRAM{
+    color:teal
+}
+.HELENA{
+    color:yellow
+}
+.PAROLLES{
+    color:wheat
+}
