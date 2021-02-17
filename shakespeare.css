@@ -6,10 +6,17 @@
   }
 
     .name{
-        color:red;
+        color:black;
     }
+    .name:hover{
+        text-shadow: 2px 2px #FF0000;
+        border-style: solid;
+  border-color: coral;
+    
+    }
+
     .speech{
-        color:navy;
+        color:black;
     
     }
     .stage-direction{
