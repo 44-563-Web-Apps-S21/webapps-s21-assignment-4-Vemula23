@@ -1,16 +1,24 @@
-
 .v1
  {
     font-size: 100px;
     color: blue;
     font-family: "Times New Roman", Times, serif;
   }
+
+    .name{
+        color:red;
+    }
+    .speech{
+        color:navy;
     
-  a:hover
-    {
-        font-size:20px;
-        background-color:springgreen;
-        font-family: "Times New Roman", Times, serif;
+    }
+    .stage-direction{
+        background-color: lightblue;
+        color:rgb(46, 43, 219);
+    }
+    .stage-direction:hover{
+        background-color: green;
+        color:white;
     }
 .COUNTESS {
     color:blue;
@@ -27,13 +35,18 @@
 .PAROLLES{
     color:greenyellow;
 }
-.name{
-    color:red;
-}
-.speech{
-    color:navy;
-
-}
-.stage-direction{
-    color:lime;
-}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 5px solid hotpink;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color:goldenrod;
+  }
